@@ -1,5 +1,7 @@
 # Auto Solving – Website (front-end)
 
+Live site: https://ahmed-shaban-ahmed.github.io/auto-solving/
+
 Plain HTML/CSS/JS, no build step. Open `index.html` directly or serve the folder:
 `python3 -m http.server 8000`
 
